@@ -9,6 +9,7 @@ sdk/THIRD_PARTY.txt   # upstream licence texts; the toml++ licence names its aut
 sdk/runtime/kernel/kernel.h :: D:\\{1,2}default\.xbe   # comment: an Xbox image path
 docs/history/traffic-bridge-log.md :: D:\\{1,2}flash   # an Xbox path of the game's asynchronous lookup
 
-# Original Midnight3Metal iOS app icon, README logo & glossy HUD button icons (not game material)
+# Original Midnight3Metal iOS app icon, README logo, HUD button icons & README showcase screenshots
 ios-app/Assets.xcassets/AppIcon.appiconset/*.png   # original Midnight3Metal app icon & README logo
-ios-app/HudIcons/*.png   # original glossy frosted-silver iOS touch HUD button icons
+ios-app/HudIcons/*.png   # original Liquid Glass iOS touch HUD button icons
+docs/screenshots/*.jpg   # README iOS launcher, HUD editor & in-game showcase screenshots
