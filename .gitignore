@@ -53,6 +53,7 @@ mc2_career_progress*
 !ios-app/Assets.xcassets/AppIcon.appiconset/*.png
 !ios-app/HudIcons/*.png
 *.jpg
+!docs/screenshots/*.jpg
 *.jpeg
 *.bmp
 *.tga
